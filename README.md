@@ -10,7 +10,6 @@ At its core, a blockchain is a chain of blocks, where each block contains a set 
 To maintain the integrity of the blockchain, each block is cryptographically secured using complex mathematical algorithms. This means that once a block has been added to the chain, it cannot be altered or deleted without being detected by the network. In addition, each block contains a unique code, known as a hash, which helps to identify it and ensures that it is in the correct sequence within the chain.
 
 The decentralized nature of blockchain also means that there is no need for a central authority to manage the transactions. Instead, every participant in the network is responsible for verifying and validating transactions. This creates a trustless system where no one entity has complete control over the network, and transactions can be processed quickly and securely.
-<h1> What is the point </h1><br>
-basically the point i's show how I understood what is and how the blockchain technology works.
-<h1> finally... </h1><br>
-you can take my code if you were inspired with him. Enjoy :D
+<br><br><br>
+
+Enjoy :D
