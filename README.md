@@ -2,7 +2,7 @@
 see this project: https://codepen.io/C4mps41205/pen/QWrxXJr?editors=1111
 
 <h1> About this project </h1><br>
-this project is a simple example of how the blockchain works. A some days ago i was trying to learn new things and i made this with JavaScript.<br>
+this project is a simple example of how the blockchain works. A some days ago i was trying to learn new things and i made this with JavaScript.<br><br>
 Blockchain is a distributed ledger technology that allows for secure, transparent, and tamper-proof transactions without the need for a centralized intermediary. Essentially, it's a digital ledger of transactions that is distributed across a network of computers, and every participant in the network has a copy of the ledger. This decentralized approach to record-keeping makes it difficult for any one entity to manipulate the data.
 
 At its core, a blockchain is a chain of blocks, where each block contains a set of transactions. When a new transaction occurs, it is verified by a network of computers called nodes. If the majority of nodes agree that the transaction is valid, it is added to a new block, which is then linked to the previous block in the chain. This creates an unbreakable chain of transactions that is secure and immutable.
